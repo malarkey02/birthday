@@ -1,4 +1,4 @@
-var friendList = ['Chandramoli', 'Grisha', 'Alfred', 'Rohan', 'Kyan', 'Priyanka', 'Roshni', 'Karan', 'Prabhat', 'Yugaan', 'Shikhar', 'Anirudh', 'Kumar', 'Kunwar', 'Aryan', 'Aviral', 'Siddharth', 'Shresht' ]; 
+var friendList = ['Chandramoli', 'Grisha', 'Alfred', 'Rohan', 'Kyan', 'Priyanka', 'Roshni', 'Karan', 'Prabhat', 'Yugaan', 'Shikhar', 'Anirudh', 'Kumar', 'Kunwar', 'Aryan', 'Aviral', 'Siddharth', 'Shresht', 'Sulagna', 'Laksh', 'Nikhil', 'Shonali', 'Pallav' ]; 
  
 var fName;
 function readData() {
@@ -117,6 +117,28 @@ function readData() {
         case 17: 
         finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. You're my caliban da please make time for me thanks. Celebrating my birthday without you would be so incomplete. (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I wouldn't miss having you. Now accept my invite and come put scene!";
         break;
+       
+      case 18: 
+      finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. I know it's tough :( and you're probably a million miles away, but ily so please superman my way. Celebrating my birthday without you is so incomplete (so please be there in spirit thanks). (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I'm missing you :'(";
+        break;
+       
+      case 19: 
+      finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. I know it's tough :( and you're probably a million miles away, but ily so please superman my way. Celebrating my birthday without you is so incomplete (so please be there in spirit thanks). (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I'm missing you :'(";
+        break;
+       
+       case 20: 
+      finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. I know it's tough :( and you're probably a million miles away, but ily so please superman my way. Celebrating my birthday without you is so incomplete (so please be there in spirit thanks). (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I'm missing you :'(";
+        break;
+       
+      case 21: 
+       finalMessage = "This is where I call my friends and give them an invite. One custom paragraph where I tell them to come. My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time it coincides again. I know you know this xD I'm just telling them why this time is extra special";
+       break;
+       
+       case 22: 
+       finalMessage = "This is where I call my friends and give them an invite. One custom paragraph where I tell them to come. My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time it coincides again. I know you know this xD I'm just telling them why this time is extra special";
+       break;
+       
+       
 
         default: 
         finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. You're such a beautiful friend da. Celebrating my birthday without you would be so incomplete. (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I wouldn't miss having you. Now accept my invite and come put scene!";
