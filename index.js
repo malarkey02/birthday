@@ -1,4 +1,4 @@
-var friendList = ['Chandramoli', 'Grisha', 'Alfred', 'Rohan', 'Kyan', 'Priyanka', 'Roshni', 'Karan', 'Prabhat', 'Yugaan', 'Shikhar', 'Anirudh', 'Kumar', 'Kunwar', 'Aryan', 'Aviral', 'Siddharth', 'Shresht', 'Sulagna', 'Laksh', 'Nikhil', 'Shonali', 'Pallav' ]; 
+var friendList = ['Chandramoli', 'Grisha', 'Alfred', 'Rohan', 'Kyan', 'Priyanka', 'Roshni', 'Karan', 'Prabhat', 'Yugaan', 'Shikhar', 'Anirudh', 'Kumar', 'Kunwar', 'Aryan', 'Aviral', 'Siddharth', 'Shresht', 'Sulagna', 'Laksh', 'Nikhil', 'Shonali', 'Pallav', 'Yash']; 
  
 var fName;
 function readData() {
@@ -136,6 +136,10 @@ function readData() {
        
        case 22: 
        finalMessage = "This is where I call my friends and give them an invite. One custom paragraph where I tell them to come. My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time it coincides again. I know you know this xD I'm just telling them why this time is extra special";
+       break;
+       
+      case 23:
+       finalMessage = "It would be one proper bomb if you could make it to either (or both!) of my Birthday Scenes. You're legit one proper bestie bro. Hope I bu,p into you more often after your exams are over! (Boring history alert) My 19th is quite special because the Hindi Calendar resets every 19 years. Back in 2002, I was born on Holi. This time being my last birthday here at home adds to the occasion, and I wouldn't miss having you. ik it's tough but do try!";
        break;
        
        
